@@ -2,7 +2,7 @@
 
 Weneed es una aplicación móvil para conectar trabajos y servicios.
 
-> Descripción
+## Descripción
 
 El desarrollo de la aplicación móvil fue en colaboración con "Samurai Studio" empresa de desarrollo de Software y Videojuegos.
 
